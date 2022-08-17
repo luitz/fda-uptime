@@ -4,17 +4,17 @@
     "url": "https://www.fahorro.com/",
     "icon": "https://favicons.githubusercontent.com/www.fahorro.com",
     "slug": "tienda-en-linea",
-    "status": "up",
-    "uptime": "93.39%",
-    "uptimeDay": "82.41%",
-    "uptimeWeek": "81.62%",
-    "uptimeMonth": "90.45%",
-    "uptimeYear": "93.39%",
-    "time": 5222,
-    "timeDay": 5594,
-    "timeWeek": 5256,
-    "timeMonth": 5319,
-    "timeYear": 5222,
+    "status": "degraded",
+    "uptime": "93.62%",
+    "uptimeDay": "82.83%",
+    "uptimeWeek": "81.63%",
+    "uptimeMonth": "90.78%",
+    "uptimeYear": "93.62%",
+    "time": 5223,
+    "timeDay": 5670,
+    "timeWeek": 5257,
+    "timeMonth": 5321,
+    "timeYear": 5223,
     "dailyMinutesDown": {
       "2022-08-17": 239,
       "2022-08-16": 300,
@@ -40,7 +40,7 @@
       "2022-07-23": 45,
       "2022-07-22": 17,
       "2022-07-21": 190,
-      "2022-07-20": 252
+      "2022-07-20": 107
     }
   }
 ]
