@@ -1,7 +1,7 @@
 url: https://www.fahorro.com/
-status: degraded
-code: 200
-responseTime: 5037
-lastUpdated: 2022-08-19T02:23:33.075Z
+status: down
+code: 403
+responseTime: 214
+lastUpdated: 2022-08-19T03:58:06.511Z
 startTime: Mon Jul 04 2022 23:46:12 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
