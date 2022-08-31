@@ -7,6 +7,31 @@ sites:
     url: https://www.fahorro.com/
     maxResponseTime: 5000
     
+  - name: TL-dev 
+    url: https://devtl-gcp.fahorro.com/
+    maxResponseTime: 10000
+   
+  - name: TL-qa
+    url: https://qatl-gcp.fahorro.com/
+    maxResponseTime: 10000
+ 
+   - name: mw-dev 
+     url: http://devmiddleware-gcp.fahorro.com/
+     maxResponseTime: 10000
+     
+   - name: mw-qa 
+     url: http://qamiddleware-gcp.fahorro.com/
+     maxResponseTime: 10000
+
+   - name: ap-dev 
+     url: http://devadminportal-gcp.fahorro.com/
+     maxResponseTime: 10000
+
+   - name: ap-qa
+     url: http://qaadminportal-gcp.fahorro.com/
+     maxResponseTime: 10000
+    
+ 
 assignees: # Users to assign downtime issues (optional)
   - luitz
 
