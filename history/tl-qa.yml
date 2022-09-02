@@ -1,7 +1,7 @@
 url: https://qatl-gcp.fahorro.com/
-status: degraded
-code: 504
-responseTime: 23413
-lastUpdated: 2022-09-02T19:20:58.166Z
+status: up
+code: 200
+responseTime: 2226
+lastUpdated: 2022-09-02T19:32:29.352Z
 startTime: Wed Aug 31 2022 21:04:27 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
