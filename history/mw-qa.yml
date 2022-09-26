@@ -1,7 +1,7 @@
 url: http://qamiddleware-gcp.fahorro.com/
-status: degraded
-code: 504
-responseTime: 24083
-lastUpdated: 2022-09-25T23:17:32.155Z
+status: down
+code: 503
+responseTime: 767
+lastUpdated: 2022-09-26T15:11:08.185Z
 startTime: Wed Aug 31 2022 21:04:33 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
