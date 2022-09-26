@@ -1,7 +1,7 @@
 url: https://devtl-gcp.fahorro.com/
-status: degraded
-code: 504
-responseTime: 23475
-lastUpdated: 2022-09-26T07:04:06.257Z
+status: down
+code: 503
+responseTime: 677
+lastUpdated: 2022-09-26T14:49:53.467Z
 startTime: Wed Aug 31 2022 21:04:24 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
